@@ -29,10 +29,6 @@
 
 ###
 
-<img align="left" height="184" src="https://i.pinimg.com/originals/3a/47/1a/3a471a9cdab7e7f11d88618526bb745d.gif"  />
-
-###
-
 <div align="right">
   <a href="https://www.linkedin.com/in/sumit-karmacharya-82b6b22a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -50,6 +46,10 @@
 
 ###
 
-<img align="right" height="184" src="https://th.bing.com/th/id/R.54acf045c361a244654c415565887fe9?rik=yxS53IDuqoZFeQ&pid=ImgRaw&r=0.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://th.bing.com/th/id/R.54acf045c361a244654c415565887fe9?rik=yxS53IDuqoZFeQ&pid=ImgRaw&r=0.gif"  />
+</div>
 
 ###
