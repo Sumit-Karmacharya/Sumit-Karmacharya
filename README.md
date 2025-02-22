@@ -53,12 +53,3 @@
 <img align="right" height="184" src="https://th.bing.com/th/id/R.54acf045c361a244654c415565887fe9?rik=yxS53IDuqoZFeQ&pid=ImgRaw&r=0.gif"  />
 
 ###
-###
-
-<img align="right" height="184" src="https://i.pinimg.com/originals/3a/47/1a/3a471a9cdab7e7f11d88618526bb745d.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Sumit-Karmacharya/Sumit-Karmacharya/output/snake.svg" alt="Snake animation" />
-
-###
