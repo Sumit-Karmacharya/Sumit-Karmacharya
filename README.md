@@ -1,6 +1,6 @@
 ## Hi there 👋  welcome to my profile
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Sumit Karmacharya and I'm a COMPUTER ENGINEER , from Pokhara,Nepal</h2>
 
 ###
 
